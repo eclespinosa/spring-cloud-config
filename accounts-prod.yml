@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related to Prod APIs"
+  contact-details:
+    name: "Justin Doe - CEO"
+    email: "justin.doe@eazybank.com"
+  on-call-support:
+    - (555) 333-1234
+    - (555) 320-1345
