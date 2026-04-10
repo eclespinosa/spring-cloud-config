@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 cards:
-  message: "Welcome to EazyBank cards related to Quality Assurance APIs"
+  message: "Welcome to EazyBank cards related to QA APIs"
   contact-details:
     name: "Jane Doe - QA Lead"
     email: "jane.doe@eazybank.com"
