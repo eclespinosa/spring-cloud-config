@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to EazyBank accounts related to QA APIs"
+  message: "Welcome to EazyBank accounts related to QA/edited APIs"
   contact-details:
     name: "Jane Doe - QA Lead"
     email: "{cipher}ae91a64bc28334f7b3e3c0b4b90d08c90bf87c7d881bca4e10487aaf2b09621dd300fcb0a05d706335450e8af1a282bb"
